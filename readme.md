@@ -1,5 +1,5 @@
 # About
-An Spring Boot starter with implemented user authorization, authentication and more. Spring Security with JWT, email confirmation.
+A Spring Boot starter with implemented user authorization, authentication and more. Spring Security with JWT, email confirmation.
 You can use this project as a start point for your application.
 
 # Build
